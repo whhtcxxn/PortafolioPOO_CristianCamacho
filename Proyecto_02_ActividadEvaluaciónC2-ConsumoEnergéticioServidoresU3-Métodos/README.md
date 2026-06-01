@@ -20,27 +20,31 @@ El proyecto resuelve la dificultad de estimar el consumo energético acumulado d
 
 ### Capturas de pantalla
 
-* **Código de las Funciones de Energía:** ![Funciones de Energía](IntNum3.png)
+#### Funciones de Energía e Integrador Numérico
+* **Código de las Funciones de Energía:** ![IntNum3](https://github.com/user-attachments/assets/fe04146d-0987-4075-a184-0cc931249747)
 
-* **Código del Integrador Numérico (Parte 1):** ![Integrador Numérico 1](IntNum1.png)
+* **Código del Integrador Numérico (Parte 1):** ![IntNum1](https://github.com/user-attachments/assets/0ecac347-7aa9-4469-918d-91ac8dade8dd)
 
-* **Código del Integrador Numérico (Parte 2):** ![Integrador Numérico 2](IntNum2.png)
+* **Código del Integrador Numérico (Parte 2):** ![IntNum2](https://github.com/user-attachments/assets/7164e02f-ed6c-43d2-b092-2ac5c9a68db1)
 
-* **Código del archivo principal index.php:** ![Archivo index.php](IndexCAP.png)
+####  Archivo de Interfaz (index.php)
+* **Configuración Inicial e Importaciones:** ![IndexCAP](https://github.com/user-attachments/assets/0242039e-48d4-4abb-b7e6-f22ca8ebdf67)
 
-* **Estructura HTML del Formulario y Tabla:** ![Estructura Index](Index1.2.png)
+* **Estructura HTML del Formulario:** ![Index1 2](https://github.com/user-attachments/assets/7dfc737b-0171-44ff-b85a-4cc18c6e4f20)
 
-* **Procesamiento de Datos en el Frontend:** ![Procesamiento Frontend](Index1.3.png)
+* **Procesamiento de Datos y Renderizado de Tabla:** ![Index1 3](https://github.com/user-attachments/assets/cedf8f32-e32b-426f-89a2-b810d3829803)
 
-* **Cierre de Estructura Web:** ![Cierre Index](Index1.4.png)
+* **Cierre del Documento Web:** ![Index1 4](https://github.com/user-attachments/assets/43129112-56f2-45d4-92e0-23c1c4a210ac)
 
-* **Código de los Estilos CSS (Parte 1):** ![Estilos CSS 1](css_cap1.png)
+####  Estilos Visuales (style.css)
+* **Estilos CSS (Parte 1):** ![css_cap1](https://github.com/user-attachments/assets/f6b25c0e-598c-45b4-8252-c825a1c8db8e)
 
-* **Código de los Estilos CSS (Parte 2):** ![Estilos CSS 2](css_cap2.png)
+* **Estilos CSS (Parte 2):** ![css_cap2](https://github.com/user-attachments/assets/5cb39ecd-d756-448a-af5e-135560f4c31f)
 
-* **Interfaz del Monitor de Energía en Ejecución:** ![Resultado en el Navegador](image_503681.png)
+####  Ejecución del Sistema
+* **Resultado del cálculo en el Monitor de Energía:** ![Cap_Ejecucion](https://github.com/user-attachments/assets/d10275de-0732-405f-8dbc-d76c9082f657)
 
-* **Resultados Calculados de Consumo:** ![Cap Ejecucion](Cap_Ejecucion.png)
+---
 
 ### Instrucciones de ejecución
 1. Copiar la carpeta del proyecto dentro del directorio `htdocs` de XAMPP.
