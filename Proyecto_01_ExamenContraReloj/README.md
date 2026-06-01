@@ -20,10 +20,14 @@ Permite modelar, estructurar y gestionar de forma automatizada y ordenada los da
 * Encapsulamiento y métodos de acceso (`getters`)
 
 ### Capturas de pantalla
-* **Código de la clase Paquete:** `![Clase Paquete](Captura de pantalla 1.png)`
-* **Código de la clase Sensor:** `![Clase Sensor](Captura de pantalla 2.png)`
-* **Código del archivo principal index.php:** `![Archivo index.php](Captura de pantalla 3.png)`
-* **Resultado de la ejecución en el navegador:** `![Resultado de ejecución](Captura de pantalla 4.png)`
+* **Código de la clase Paquete:** `<img width="997" height="593" alt="Captura de pantalla 1" src="https://github.com/user-attachments/assets/80fa99e6-b6fd-4bc5-a8aa-a45daa6c909e" />
+`
+* **Código de la clase Sensor:** `<img width="906" height="607" alt="Captura de pantalla 2" src="https://github.com/user-attachments/assets/bf03319b-7da8-4d13-b13a-e950d08de22e" />
+`
+* **Código del archivo principal index.php:** `<img width="758" height="538" alt="Captura de pantalla 3" src="https://github.com/user-attachments/assets/2f4cecc1-e319-44ad-9e7d-7282663eb452" />
+`
+* **Resultado de la ejecución en el navegador:** `<img width="1061" height="85" alt="Captura de pantalla 4" src="https://github.com/user-attachments/assets/08465aae-a851-47c5-b416-4bbd73070b43" />
+`
 
 ### Instrucciones de ejecución
 1. Copiar la carpeta `Proyecto_01_ExamenContraReloj` dentro del directorio `C:\xampp\htdocs\`.
