@@ -1,0 +1,8 @@
+Fecha: 2026-05-26
+Actividad: Se realizó el recorrido perimetral matutino sin novedades. Se completó la revisión del sistema de cámaras del sector norte y queda pendiente el mantenimiento del portón principal para el siguiente turno.
+Responsable: Cristian Camacho
+--------------------------------------------------
+Fecha: 2026-05-26
+Actividad: Se reportó una falla intermitente en el sensor de movimiento del acceso peatonal B durante el cambio de turno. Se procedió a reiniciar el módulo y se verificó su correcto funcionamiento. Sin más incidentes que reportar.
+Responsable: Valeria Herrera
+--------------------------------------------------
