@@ -24,8 +24,9 @@ Permite modelar, estructurar y gestionar de forma automatizada y ordenada los da
 * **Código de la clase Paquete:**  
   ![Captura de pantalla 1](https://github.com/user-attachments/assets/80fa99e6-b6fd-4bc5-a8aa-a45daa6c909e)
 
-* **Código de la clase Sensor:**  
-  ![Captura de pantalla 2](https://github.com/user-attachments/assets/bf03319b-7da8-41d3-b13a-e950d08de22e)
+* **Código de la clase Sensor:**
+ ![Captura de pantalla 2](https://github.com/user-attachments/assets/7d4bc26c-1598-46fd-85d7-dbac2bf963bc)
+)
 
 * **Código del archivo principal index.php:**  
   ![Captura de pantalla 3](https://github.com/user-attachments/assets/2f4cecc1-e319-44ad-9e7d-7282663eb452)
